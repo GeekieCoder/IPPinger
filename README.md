@@ -1,2 +1,6 @@
 # IPPinger
-This is my an IP pinger written in python
+To make this work you need to install colorama
+
+'''
+pip install colorama
+'''
