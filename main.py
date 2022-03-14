@@ -3,7 +3,7 @@ import os
 import time
 from colorama import Fore
 
-logo = """"
+logo = """
   ___       ____  _                       
  |_ _|_ __ |  _ \(_)_ __   __ _  ___ _ __ 
   | || '_ \| |_) | | '_ \ / _` |/ _ \ '__|
